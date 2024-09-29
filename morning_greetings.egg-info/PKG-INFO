@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: morning_greetings
+Version: 1.0.0
+Summary: A package to send personalized morning greetings
+Author: Hamid Hamrah
+Author-email: s362052@oslomet.no
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
